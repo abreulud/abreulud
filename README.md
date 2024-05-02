@@ -9,13 +9,13 @@
 </div>
 
 
-### Top repositórios:
+### top repositórios:
 
 <a href="https://github.com/abreulud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abreulud&repo=abreuludG&theme=ocean_dark" />
 </a>
 
-#### Aprendendo:
+### aprendendo:
 <div
   style="display: inline_block"><br>
   <img align="center" alt="Linne-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
