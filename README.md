@@ -2,6 +2,19 @@
 
 
 
+<div>
+  <a href="https://github.com/abrelud">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abreulud&show_icons=&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreulud&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
+
+
+### Top repositórios:
+
+<a href="https://github.com/abreulud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abreulud&repo=abreuludG&theme=ocean_dark" />
+</a>
+
 #### Aprendendo:
 <div
   style="display: inline_block"><br>
