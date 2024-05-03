@@ -1,4 +1,4 @@
-## Oiii eu sou a Ludmilla, bem-vindo(a)!👩🏽‍💻
+## Olá! Me chamo Ludmilla, bem-vindo(a) ao meu repositório!👩🏽‍💻
 
 
 
