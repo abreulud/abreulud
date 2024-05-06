@@ -1,6 +1,6 @@
 ## Olá! Me chamo Ludmilla, bem-vindo(a)!
 
-Tenho 21 anos, sou estudante do curso de Ciências da Computação (2° semestre), gosto de tocar violão e aprender novas tecnologias. Tenho interesses nas áreas de Segurança da Informação, DevOps e desenvolvimento fullstack.
+####Tenho 21 anos, sou estudante do curso de Ciências da Computação (2° semestre), gosto de tocar violão e aprender novas tecnologias. Tenho interesses nas áreas de Segurança da Informação, DevOps e desenvolvimento fullstack. 🌱 
 
 
 <div>
@@ -16,7 +16,7 @@ Tenho 21 anos, sou estudante do curso de Ciências da Computação (2° semestre
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abreulud&repo=abreuludG&theme=ocean_dark" />
 </a>
 
-### aprendendo:
+### Learning:
 <div
   style="display: inline_block"><br>
   <img align="center" alt="Linne-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
