@@ -1,6 +1,5 @@
-## Olá! Me chamo Ludmilla, bem-vindo(a)!
-
-Tenho 21 anos, sou estudante do curso de Ciências da Computação (2° semestre), gosto de tocar violão e aprender novas tecnologias. Tenho interesses nas áreas de Segurança da Informação, DevOps e desenvolvimento fullstack. 🌱 
+## Hi, i'm Ludmilla!👩🏽‍💻
+I'm a 21 year old girl, studying Computer Science (2º semester). I have interests in Cyber Security, DevOps and FullStack development. 🌱 
 
 
 <div>
