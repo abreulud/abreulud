@@ -20,8 +20,7 @@ I'm a 21 year old girl studying Computer Science (2º semester). I have interest
 --------------------------------------------------------------------------------------------------------------------------------------- 
 <div
 
-**Learning:**
-
+## **Learning:**
   <img align="center" alt="Linne-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Linne-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Linne-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
