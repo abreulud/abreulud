@@ -11,9 +11,7 @@ I'm a 21 year old girl undergraduate in Computer Science.🌱
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreulud&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
-<a href="https://github.com/abreulud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abreulud&repo=abreuludG&theme=ocean_dark" />
-</a>
+
 
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------------------------- 
