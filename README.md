@@ -1,6 +1,6 @@
 
 
-## Hi, i am Ludmilla!
+## Hello, i'm Ludmilla!
 I'm a 21 year old girl undergraduate in Computer Science.🌱
 
 &nbsp;
