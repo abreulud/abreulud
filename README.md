@@ -3,7 +3,7 @@
 # Hi there, i'm Ludmilla!✨
 - 🌱 I'm a 20 years old girl undergraduating in Computer Science student at the University Jorge Amado - UNIJORGE
 - 🤖 Passionate about aaaall technology's: programming, cybersecurity, quantum computers...
-- 👩🏽‍💻 Curretly learning the fundamentals of DevOps and CyberSec
+- 👩🏽‍💻 Currently learning the fundamentals of DevOps and CyberSec
 
 
 
