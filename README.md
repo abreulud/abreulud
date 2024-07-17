@@ -16,7 +16,7 @@
 
 <a href="https://github.com/abreulud">
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=abreulud&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreulud&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreulud&layout=compact&langs_count7=&theme=catppuccin_mocha"/>
  
 <div>
   
