@@ -1,7 +1,7 @@
 
 
 # Hi there, i'm Ludmilla!✨
-- 🌱 I'm a 20 years old girl undergraduating in Computer Science student at the University Jorge Amado - UNIJORGE
+- 🌱 I'm a 20 years old, undergraduating in Computer Science student at the University Jorge Amado - UNIJORGE
 - 🤖 Passionate about all technologies: programming, hardware hacking, quantum computers...
 - 👩🏽‍💻 Currently learning the fundamentals of DevOps and CyberSec
 
