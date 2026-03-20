@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0a1628&section=header)
-
-###
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a8d5b5,50:6db88a,100:a8d5b5&section=header)###
 
 <div align="center">
 <table>
@@ -77,4 +75,4 @@ I'm a 21 years old girl undergraduating in Computer Science student at the Unive
 </table>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0a1628&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a8d5b5,50:6db88a,100:a8d5b5&section=footer)
