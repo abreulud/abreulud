@@ -9,7 +9,7 @@
 
 
 # About me
-I'm a 21 years old girl undergraduating in Computer Science student at the University Jorge Amado - UNIJORGE (6th semester-2027.1). I have learned about Computer Networks, Security, Quantum Computing
+I'm a 22 years old girl undergraduating in Computer Science student at the University Jorge Amado (6th semester-2027.1). I have learned about Computer Networks, Security, Quantum Computing
 - 🔬 IT researcher in Quantum Computing at QuIIn - SENAI CIMATEC
 - 🧩 Passionate and curious about: hardware hacking, quantum computers, history of computing...
 - 💻 Academic projects and research
