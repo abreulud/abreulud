@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a8d5b5,50:6db88a,100:a8d5b5&section=header)###
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a8d5b5,50:6db88a,100:a8d5b5&section=header)
+
+###
 
 <div align="center">
 <table>
@@ -6,7 +8,7 @@
 <td width="50%" valign="top">
 
 
-# About me:
+# About me
 I'm a 21 years old girl undergraduating in Computer Science student at the University Jorge Amado - UNIJORGE (6th semester-2027.1). I have learned about Computer Networks, Security, Quantum Computing
 - 🔬 IT researcher in Quantum Computing at QuIIn - SENAI CIMATEC
 - 🧩 Passionate and curious about: hardware hacking, quantum computers, history of computing...
@@ -20,7 +22,7 @@ I'm a 21 years old girl undergraduating in Computer Science student at the Unive
 
 ---
 
-## Contact:
+## Contact
 <a href = "mailto:ludmillaabreu07@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ludmilla-abreu/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
