@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/abreulud/readme.md/main/header.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0a1628&section=header)
 
 ###
 
@@ -70,3 +70,11 @@ I'm a 21 years old girl undergraduating in Computer Science student at the Unive
 <a href="https://www.credly.com/badges/05ab2eb9-a044-4a81-98c2-c17b569c4a07" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="105"/>
 </a>
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0a1628&section=footer)
