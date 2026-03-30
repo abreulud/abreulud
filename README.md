@@ -50,7 +50,6 @@ I'm a 22 years old girl undergraduating in Computer Science student at the Unive
 <img width="10" />
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abreulud&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" height="500" alt="languages graph"  />
   </div>
 </div>
 
