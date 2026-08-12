@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ludmilla Abreu 👋
+# Ludmilla Souza Dias de Abreu
 
 ### Computer Science Undergraduate · Quantum Computing Researcher · Cybersecurity Enthusiast
 
