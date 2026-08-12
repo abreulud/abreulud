@@ -13,7 +13,7 @@ I explore the intersection of **quantum computing, computer networks, cybersecur
   <img
     width="480"
     alt="Animated coding illustration"
-    src="https://github.com/user-attachments/assets/3ad167bd-9753-4288-a165-0ac9f5b88a19"
+    src="./computer.gif"
   />
 </p>
 
