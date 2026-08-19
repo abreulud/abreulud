@@ -70,7 +70,7 @@ I explore the intersection of **quantum computing, computer networks, cybersecur
 
 <div align="center">
 
-### Open to research collaborations, internships, and technology opportunities
+### Open to collaborations and technology opportunities
 
 <sub>Thank you for visiting my profile.</sub>
 
